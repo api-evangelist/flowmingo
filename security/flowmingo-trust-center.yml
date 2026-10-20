@@ -1,0 +1,14 @@
+generated: '2026-10-20'
+method: searched
+probe: true
+source: https://flowmingo.ai/security
+url: https://flowmingo.ai/security
+certifications:
+- SOC 2
+- GDPR
+evidence:
+- source: https://flowmingo.ai/security
+  keywords:
+  - soc 2
+  - soc2
+  - gdpr

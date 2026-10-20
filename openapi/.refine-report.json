@@ -1,0 +1,24 @@
+{
+  "provider": "flowmingo",
+  "sources": [
+    "flowmingo-openapi.yml"
+  ],
+  "outputs": [
+    "flowmingo-flowmingo-api-api-openapi.yml",
+    "flowmingo-scheduler-api-openapi.yml"
+  ],
+  "archived": [
+    "archived openapi/flowmingo-openapi.yml"
+  ],
+  "errors": [],
+  "warnings": [],
+  "notes": [
+    "flowmingo-openapi.yml: upgraded openapi 3.0.0 -> OpenAPI 3.2.0",
+    "flowmingo-openapi.yml: tagged paths GET / -> Flowmingo API",
+    "flowmingo-openapi.yml: tagged paths GET /scheduler -> Scheduler",
+    "flowmingo-openapi.yml: declared missing tag: Flowmingo API",
+    "flowmingo-openapi.yml: declared missing tag: Scheduler",
+    "apis.yml register: written (+2 apis, 2 total)"
+  ],
+  "skipped": []
+}

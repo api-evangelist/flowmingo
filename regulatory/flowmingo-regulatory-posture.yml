@@ -1,0 +1,24 @@
+generated: '2026-10-20'
+method: searched
+source: https://flowmingo.ai/security
+signals:
+  data_subject_request:
+    quote: "Removed on a validated data-subject request, or when the statutory period ends."
+    url: https://flowmingo.ai/security
+    section: "Security and privacy"
+    note: Provides for data subject deletion upon request.
+  data_retention:
+    quote: "From our privacy policy, section 6. On request Candidate data owned by a recruiter, for as long as the recruiter requires it. Removed when the recruiter deletes it, or the account closes and sits inactive 2 years. ... Up to 7 years Billing and payment records, which outlive the rest. Retention for legal obligations."
+    url: https://flowmingo.ai/security
+    section: "Security and privacy"
+    note: Specifies retention periods for candidate data (2 years) and billing records (up to 7 years).
+  incident_notification:
+    quote: "Testing Penetration testing and monitor"
+    url: https://flowmingo.ai/security
+    section: "Security and privacy"
+    note: Mentions penetration testing but no explicit breach notification policy.
+  encryption:
+    quote: "Encrypted in transit and at rest, with pseudonymisation of sensitive data."
+    url: https://flowmingo.ai/security
+    section: "Security and privacy"
+    note: Describes encryption and pseudonymisation measures.

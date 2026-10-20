@@ -1,0 +1,17 @@
+openapi: 3.2.0
+info:
+  title: Flowmingo Scheduler API
+  version: '1.0'
+tags:
+- name: Scheduler
+paths:
+  /scheduler:
+    get:
+      operationId: SchedulerController_getScheduleTasks
+      responses:
+        '200':
+          description: OK
+      tags:
+      - Scheduler
+      summary: Scheduler controller get schedule tasks
+      x-summary-source: derived

@@ -1,0 +1,19 @@
+# x-archived-from: flowmingo-openapi.yml
+# x-archived-on: 2026-10-20
+openapi: 3.0.0
+info:
+  title: Flowmingo API
+  version: "1.0"
+paths:
+  /:
+    get:
+      operationId: CompanyController_getHello
+      responses:
+        "200":
+          description: OK
+  /scheduler:
+    get:
+      operationId: SchedulerController_getScheduleTasks
+      responses:
+        "200":
+          description: OK

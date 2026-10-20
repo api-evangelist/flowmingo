@@ -1,0 +1,6 @@
+generated: '2026-10-20'
+method: probed
+generator: harvest-llms.py
+source: https://dev.flowmingo.ai/llms.txt
+bytes: 1807
+note: saved verbatim; the provider's own document

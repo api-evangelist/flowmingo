@@ -1,0 +1,16 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/flowmingo/integrations
+- https://n8n.io/integrations/flowmingo/
+- https://composio.dev/toolkits/flowmingo
+- https://monid.ai/tools/flowmingo
+checked:
+- https://composio.dev/toolkits/flowmingo
+- https://monid.ai/tools/flowmingo
+- https://n8n.io/integrations/flowmingo/
+- https://zapier.com/apps/flowmingo/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

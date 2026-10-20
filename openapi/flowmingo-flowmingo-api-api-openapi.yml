@@ -1,0 +1,17 @@
+openapi: 3.2.0
+info:
+  title: Flowmingo API
+  version: '1.0'
+tags:
+- name: Flowmingo API
+paths:
+  /:
+    get:
+      operationId: CompanyController_getHello
+      responses:
+        '200':
+          description: OK
+      tags:
+      - Flowmingo API
+      summary: Company controller get hello
+      x-summary-source: derived

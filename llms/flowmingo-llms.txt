@@ -1,0 +1,21 @@
+# Flowmingo
+
+> Flowmingo is a free AI interviewer for recruiters. Each applicant interviews in their own time; the recruiter gets the recording, the transcript and a report scored against their own criteria. Unlimited AI interviews on every plan, in 60+ languages. CV evaluation, tests and a full applicant tracking system (ATS) come with it. Y Combinator-backed. Founded 2024, Singapore.
+
+## Key pages
+- [Homepage](https://flowmingo.ai/): Free AI interviewer for candidate screening.
+- [AI Interviewer](https://flowmingo.ai/product/ai-interviewer): How the AI interview works and what each report contains.
+- [Pricing](https://flowmingo.ai/pricing): Free, Starter and Growth plans.
+- [How Flowmingo is free](https://flowmingo.ai/our-model): Why AI interviews cost recruiters $0, and how Flowmingo earns.
+- [Comparisons](https://flowmingo.ai/comparison): Flowmingo against Hyring, Sapia.ai, Interviewer.AI, micro1 and other AI interviewers.
+- [AI CV Screener](https://flowmingo.ai/ai-cv-screener): Free AI CV evaluation.
+- [FAQ](https://flowmingo.ai/faq): Answers for hiring teams (whether it is really free, how the AI interview is scored, cheating signals, who owns the data, setup, keeping your ATS) and for candidates (what the interview needs, practice, retakes, what happens after).
+- [Blog](https://flowmingo.ai/blog): Guides on AI interviews and screening.
+
+## About
+- Category: AI interviewer / AI recruiting software
+- Pricing: Free $0 (unlimited AI interviews, CV evaluation, tests, ATS, unlimited seats). Starter $49 a month and Growth $99 a month add video retention, branding, downloads and cheaper add-ons. No card to sign up.
+- Integrations: REST API, webhooks and MCP, free on every plan
+- Languages: 60+
+- Sign up: https://team.flowmingo.ai/company/sign-up
+- Contact: contact@flowmingo.ai
