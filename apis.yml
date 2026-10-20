@@ -1,0 +1,29 @@
+aid: flowmingo
+name: Flowmingo
+description: 'Flowmingo is a company surfaced via the API Evangelist harvest backlog (source: new-submission)
+  and added to the network as a stub for full-pipeline profiling.'
+url: https://raw.githubusercontent.com/api-evangelist/flowmingo/refs/heads/main/apis.yml
+x-type: company
+x-source: harvest:new-submission
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-10-20'
+modified: '2026-10-20'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://flowmingo.ai
+- type: Documentation
+  url: https://flowmingo.ai/integration/api-integration
+x-submission-notes: AI interviewer for recruiters; REST + webhooks + remote MCP
+x-submission-probe: root 200; api-integration 200; mcp docs 200; MCP initialize 401 (asks for API key
+  -- live MCP); soft-404 clean
+x-submitted-by: nhi.vu@flowmingo.ai (submission, 2026-10-20)
