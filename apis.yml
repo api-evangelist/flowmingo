@@ -94,7 +94,6 @@ x-submission-notes: AI interviewer for recruiters; REST + webhooks + remote MCP
 
 x-submission-probe: root 200; api-integration 200; mcp docs 200; MCP initialize 401 (asks for API key -- live MCP); soft-404 clean
 
-x-submitted-by: nhi.vu@flowmingo.ai (submission, 2026-10-20)
 x-enrichment:
   date: '2026-10-20'
   status: enriched
